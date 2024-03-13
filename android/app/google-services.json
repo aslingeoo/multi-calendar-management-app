@@ -1,45 +1,45 @@
 {
   "project_info": {
-    "project_number": "331289226813",
-    "project_id": "calender-app123",
-    "storage_bucket": "calender-app123.appspot.com"
+    "project_number": "444197624164",
+    "project_id": "calender-booking-app-123",
+    "storage_bucket": "calender-booking-app-123.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:331289226813:android:375fbc38588e9e3ba4c454",
+        "mobilesdk_app_id": "1:444197624164:android:68ca6394c88b9dcbe98271",
         "android_client_info": {
-          "package_name": "com.example.booking_app"
+          "package_name": "com.calender.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "331289226813-gkfbb3oo4p0d1jhomd51puiv57420iqh.apps.googleusercontent.com",
+          "client_id": "444197624164-j9no7s14jakae6pfolg847gio39ctq8m.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.booking_app",
+            "package_name": "com.calender.app",
             "certificate_hash": "192aadb72a2e6d753a54e4e4597c60dfc503f109"
           }
         },
         {
-          "client_id": "331289226813-37laumjdlavd3f4ltj2lv76l21ts8mcc.apps.googleusercontent.com",
+          "client_id": "444197624164-subgl78d35ut32gh6u4f9m46prgddqlq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAQdbAWtwLULuAv3rYV1oah1kkj6YfiQJc"
+          "current_key": "AIzaSyB7nS2OQefc7vaAaYh2pGFvH590sarfK_o"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "331289226813-37laumjdlavd3f4ltj2lv76l21ts8mcc.apps.googleusercontent.com",
+              "client_id": "444197624164-subgl78d35ut32gh6u4f9m46prgddqlq.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "331289226813-8sg7nrim1rspeqngnca9iae0hb22qj09.apps.googleusercontent.com",
+              "client_id": "444197624164-4h5963i4jf0tes4var6p6gps6d57vq7s.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.bookingApp.RunnerTests"

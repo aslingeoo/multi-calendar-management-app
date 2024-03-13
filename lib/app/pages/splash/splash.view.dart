@@ -28,23 +28,22 @@ class SplashView extends GetResponsiveView<SplashController> {
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Image.asset(
-              AppAssets.splashLogo,
+            const SizedBox(
               height: 300,
+            ),
+            Image.asset(
+              "asset/appointment.png",
+              height: 600,
               width: 300,
             ),
           ],
         ),
         Text(
           AppStrings.title,
-          style: AppFonts().h1.copyWith(color: AppColors.white),
+          style: AppFonts().h3Bold.copyWith(color: AppColors.white),
         ),
         const SizedBox(
-          height: 10,
-        ),
-        Text(
-          AppStrings.splashMessage,
-          style: AppFonts().h3.copyWith(color: AppColors.white),
+          height: 30,
         ),
         bottomButton()
       ],

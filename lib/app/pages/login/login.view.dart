@@ -34,8 +34,8 @@ class LoginView extends GetResponsiveView<LoginController> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Image.asset(
-                  AppAssets.man,
-                  height: 250,
+                  "asset/login.png",
+                  height: 400,
                   width: 300,
                 ),
               ],
