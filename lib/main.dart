@@ -1,3 +1,4 @@
+import 'package:booking_app/app/route/route.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'Flutter Demo',
+      title: 'multi-calendar management app',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -32,6 +33,9 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
+      initialRoute: AppPages.inital,
+      getPages: AppPages.route,
+      debugShowCheckedModeBanner: false,
     );
   }
 }
