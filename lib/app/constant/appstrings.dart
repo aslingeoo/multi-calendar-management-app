@@ -1,5 +1,5 @@
 class AppStrings {
-  static const String foodienator = "Royal Hotel";
+  static const String title = "Multi Calendar Management";
   static const String splashMessage = "Order your favorite Meals Here!";
   static const String signin = "Sign in";
   static const String register = "Register";

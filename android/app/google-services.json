@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "444197624164",
-    "project_id": "calender-booking-app-123",
-    "storage_bucket": "calender-booking-app-123.appspot.com"
+    "project_number": "331289226813",
+    "project_id": "calender-app123",
+    "storage_bucket": "calender-app123.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:444197624164:android:68ca6394c88b9dcbe98271",
+        "mobilesdk_app_id": "1:331289226813:android:375fbc38588e9e3ba4c454",
         "android_client_info": {
-          "package_name": "com.calender.app"
+          "package_name": "com.example.booking_app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB7nS2OQefc7vaAaYh2pGFvH590sarfK_o"
+          "current_key": "AIzaSyAQdbAWtwLULuAv3rYV1oah1kkj6YfiQJc"
         }
       ],
       "services": {

@@ -63,7 +63,7 @@ class LoginView extends GetResponsiveView<LoginController> {
             // Sign In Button
             ElevatedButton(
               onPressed: () {
-                controller.handleSignIn();
+                controller.signInWithGoogle();
               },
               style: ButtonStyle(
                   backgroundColor: MaterialStateProperty.all(AppColors.white),

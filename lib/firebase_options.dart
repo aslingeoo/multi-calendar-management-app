@@ -44,37 +44,37 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB41xSuzrVta8sMiCiTUBQpxfJstLqnX1o',
-    appId: '1:444197624164:web:6ba4541e645eeabfe98271',
-    messagingSenderId: '444197624164',
-    projectId: 'calender-booking-app-123',
-    authDomain: 'calender-booking-app-123.firebaseapp.com',
-    storageBucket: 'calender-booking-app-123.appspot.com',
+    apiKey: 'AIzaSyBIVb1MGSMlkTgurtGwNmjrQ_QLj5U6ZPg',
+    appId: '1:331289226813:web:340e5f10e4dfcf9da4c454',
+    messagingSenderId: '331289226813',
+    projectId: 'calender-app123',
+    authDomain: 'calender-app123.firebaseapp.com',
+    storageBucket: 'calender-app123.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB7nS2OQefc7vaAaYh2pGFvH590sarfK_o',
-    appId: '1:444197624164:android:68ca6394c88b9dcbe98271',
-    messagingSenderId: '444197624164',
-    projectId: 'calender-booking-app-123',
-    storageBucket: 'calender-booking-app-123.appspot.com',
+    apiKey: 'AIzaSyAQdbAWtwLULuAv3rYV1oah1kkj6YfiQJc',
+    appId: '1:331289226813:android:375fbc38588e9e3ba4c454',
+    messagingSenderId: '331289226813',
+    projectId: 'calender-app123',
+    storageBucket: 'calender-app123.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBFdvlHGHU7sr5EOtAOfsfQHRISRJPBBVQ',
-    appId: '1:444197624164:ios:1313f49940e831bfe98271',
-    messagingSenderId: '444197624164',
-    projectId: 'calender-booking-app-123',
-    storageBucket: 'calender-booking-app-123.appspot.com',
+    apiKey: 'AIzaSyC-uwUMAk2rJyNFKBQNxNvLTsYg8imZOBg',
+    appId: '1:331289226813:ios:682f5934a5dff713a4c454',
+    messagingSenderId: '331289226813',
+    projectId: 'calender-app123',
+    storageBucket: 'calender-app123.appspot.com',
     iosBundleId: 'com.example.bookingApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBFdvlHGHU7sr5EOtAOfsfQHRISRJPBBVQ',
-    appId: '1:444197624164:ios:e131538764c0ff33e98271',
-    messagingSenderId: '444197624164',
-    projectId: 'calender-booking-app-123',
-    storageBucket: 'calender-booking-app-123.appspot.com',
+    apiKey: 'AIzaSyC-uwUMAk2rJyNFKBQNxNvLTsYg8imZOBg',
+    appId: '1:331289226813:ios:5535c8e297ac128fa4c454',
+    messagingSenderId: '331289226813',
+    projectId: 'calender-app123',
+    storageBucket: 'calender-app123.appspot.com',
     iosBundleId: 'com.example.bookingApp.RunnerTests',
   );
 }

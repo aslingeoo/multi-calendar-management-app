@@ -1,7 +1,7 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
-  "GOOGLE_APP_ID": "1:444197624164:ios:e131538764c0ff33e98271",
-  "FIREBASE_PROJECT_ID": "calender-booking-app-123",
-  "GCM_SENDER_ID": "444197624164"
+  "GOOGLE_APP_ID": "1:331289226813:ios:5535c8e297ac128fa4c454",
+  "FIREBASE_PROJECT_ID": "calender-app123",
+  "GCM_SENDER_ID": "331289226813"
 }

@@ -36,7 +36,7 @@ class SplashView extends GetResponsiveView<SplashController> {
           ],
         ),
         Text(
-          AppStrings.foodienator,
+          AppStrings.title,
           style: AppFonts().h1.copyWith(color: AppColors.white),
         ),
         const SizedBox(
@@ -66,9 +66,7 @@ class SplashView extends GetResponsiveView<SplashController> {
                 child: Container(
                   decoration: BoxDecoration(
                       color: AppColors.lightGreen02,
-                      borderRadius: const BorderRadius.only(
-                          bottomLeft: Radius.circular(10),
-                          topLeft: Radius.circular(10))),
+                      borderRadius: BorderRadius.circular(15)),
                   child: Padding(
                     padding: const EdgeInsets.only(top: 20, bottom: 20),
                     child: Center(
